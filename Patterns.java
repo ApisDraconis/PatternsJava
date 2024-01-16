@@ -71,6 +71,12 @@ public class Patterns {
                 System.out.println();
             }
         }
-    }
 
+        
+public class test{
+    public static void main(String[] args) {
+    System.out.println(Patterns.invertedPy(5));
+    }
+}
+    }
 
